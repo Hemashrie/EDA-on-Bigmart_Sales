@@ -62,3 +62,10 @@ This project aims to:
 4. (Optional) Modify the dataset or analysis as needed.
 
 ---
+
+## Author
+Created by: Hema Shrie  
+
+Email: rhemashrie156@gmail.com
+
+---
