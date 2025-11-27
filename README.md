@@ -1,13 +1,13 @@
-# 🏪 BigMart Sales Data Analysis – EDA Project
+# BigMart Sales Data Analysis – EDA Project
 
-## 🌟 Project Summary
+##  Project Summary
 
 This project focuses on performing **Exploratory Data Analysis (EDA)** on the BigMart Sales dataset.
 The goal is to identify key factors that influence sales across various stores and product categories and to build insights that could support future prediction or optimization tasks.
 
 ---
 
-## 📘 Project Overview
+##  Project Overview
 
 BigMart operates multiple stores across different cities and sells a variety of products.
 This project aims to:
@@ -18,7 +18,7 @@ This project aims to:
 
 ---
 
-## 📁 Files in This Repository
+##  Files in This Repository
 
 | File Name                 | Description                                                                |
 | ------------------------- | -------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ This project aims to:
 
 ---
 
-## 🧰 Tools & Libraries Used
+##  Tools & Libraries Used
 
 * **Python**
 * **Pandas** – Data manipulation
@@ -37,7 +37,7 @@ This project aims to:
 
 ---
 
-## 📊 Key Steps Performed
+##  Key Steps Performed
 
 1. **Data Cleaning:** Handled missing values and corrected data types.
 2. **Exploratory Analysis:** Explored relationships between product, store, and sales features.
@@ -46,7 +46,7 @@ This project aims to:
 
 ---
 
-## 📈 Insights Discovered
+##  Insights Discovered
 
 * Sales vary significantly across item types and outlet sizes.
 * Outlet establishment year impacts sales performance.
@@ -54,7 +54,7 @@ This project aims to:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download or clone this repository.
 2. Open the `.ipynb` file in **Jupyter Notebook** or **VS Code**.
